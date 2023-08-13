@@ -92,4 +92,4 @@ This project is licensed under the [MIT License](LICENSE). You're free to modify
 
 ---
 
-Enjoy showcasing your projects with the unique retro charm of the **AMPM Personal Website**! If you have any questions, suggestions, or feedback, feel free to open an issue or get in touch. Happy showcasing! 🌟
+Enjoy showcasing your projects with the unique retro charm of the **Personal Website**! If you have any questions, suggestions, or feedback, feel free to open an issue or get in touch. Happy showcasing! 🌟
