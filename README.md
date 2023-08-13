@@ -43,13 +43,13 @@ To run the website locally, follow these steps:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/ampm_personal_website.git
+   git clone https://github.com/iamprathameshmore/ampm_personal_website.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ampm_personal_website
+   cd iampm_personal-website
    ```
 
 3. Open the `index.html` file in your preferred web browser.
